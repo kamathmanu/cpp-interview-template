@@ -1,0 +1,7 @@
+# MacOS & VSCode junk
+.DS_Store 
+.metals
+.vscode
+cpp_interviews.code-workspace
+# build dir
+build/
